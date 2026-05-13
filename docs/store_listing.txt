@@ -1,0 +1,13 @@
+App name
+JULIENNE PIERRE-LOUIS
+
+Short description
+Manage payroll reports, shift coverage, room bookings, and training records locally.
+
+Full description
+JULIENNE PIERRE-LOUIS gives small operations teams a focused Android workspace for daily business coordination. Track payroll report status, staff shift coverage, facility bookings, and training progress from one organized mobile app.
+
+Each workflow supports saved local records, clear status updates, detail views, and quick review screens for managers who need to keep work moving without account setup or cloud sync.
+
+Category
+Business

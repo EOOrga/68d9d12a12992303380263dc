@@ -1,0 +1,6 @@
+using $gpc-app-builder  create this app
+app title: JULIENNE PIERRE-LOUIS
+app idea: An operations-focused app offering payroll reports, shift scheduling, facility booking, and staff training courses to streamline daily business tasks.
+company name: JULIENNE PIERRE-LOUIS
+email address: [email to be provided later]
+the two icon and featured graphics contained in docs folder
