@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.taziggg100.juliennepierrelouis": {
+      "title": "JULIENNE PIERRE-LOUIS",
+      "short_description": "Manage payroll reports, shift coverage, room bookings, and training records...",
+      "full_description": "JULIENNE PIERRE-LOUIS gives small operations teams a focused Android workspace for daily business coordination. Track payroll report status, staff shift coverage, facility bookings, and training progress from one organized mobile app.\n\nEach workflow supports saved local records, clear status updates, detail views, and quick review screens for managers who need to keep work moving without account setup or cloud sync.",
+      "source_screenshots": [
+        "docs/screens/1.png",
+        "docs/screens/2.png",
+        "docs/screens/3.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:27:41.867257+00:00"
+    }
+  }
+}
