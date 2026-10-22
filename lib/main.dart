@@ -21,7 +21,7 @@ class OperationsApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const seed = Color(0xFF1086B1);
+    const seed = Color(0xFFFF1F7C);
     const navy = Color(0xFF09123D);
     final scheme =
         ColorScheme.fromSeed(
@@ -295,7 +295,7 @@ class OperationsStore extends ChangeNotifier {
     OpsRecord(
       id: 'payroll-may',
       stream: Workstream.payroll,
-      title: 'May payroll closeout',
+      title: 'JULIENNE PIERRE-LOUIS',
       owner: 'M. Laurent',
       scheduledFor: 'May 1-15, 2026',
       status: 'Review',

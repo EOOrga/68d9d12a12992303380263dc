@@ -1,4 +1,4 @@
-name: julienne_ops
+name: juliennepierrelouis
 description: Operations workspace for payroll, shifts, rooms, and training.
 publish_to: 'none'
 version: 1.0.0+1
@@ -27,6 +27,6 @@ flutter_launcher_icons:
   android: true
   ios: false
   image_path: docs/icon.png
-  adaptive_icon_background: '#09123D'
+  adaptive_icon_background: "#FFA21F"
   adaptive_icon_foreground: docs/icon.png
   min_sdk_android: 23
